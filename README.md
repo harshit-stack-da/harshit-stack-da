@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshit | Production Data Analyst & Analytics Engineer
 
-<!--
-**hs093729-stack/hs093729-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build enterprise-grade data architectures, advanced machine learning workflows, and responsive business intelligence systems. My work focuses on translating chaotic, large-scale transactional data into clear financial, marketing, and operational optimization strategies.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Toolbelt
+* **Core Programming:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (Advanced MySQL, Window Functions, Query Tuning)
+* **Business Intelligence:** Power BI, Microsoft Excel, Streamlit Architecture, Wireframe Blueprinting
+* **Analytical Frameworks:** Unsupervised Clustering (K-Means), Ensemble Modeling, SMOTE Class Imbalancing, Feature Engineering, Statistical Hypothesis Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Technical Workspaces
+
+1. **[Credit Risk & Early-Default Intelligence Platform](https://github.com):** End-to-end classification framework utilizing SMOTE balancing and Random Forests to calculate real-time borrower threat vectors (ROC-AUC: 0.9252).
+2. **[Advanced E-Commerce Customer Segmentation & LTV Analytics](https://github.com):** Unsupervised learning ecosystem transforming 540K+ retail logs via Logarithmic Rescaling and K-Means to profile core lifecycle cohorts.
+3. **[Supply Chain Logistics Delay Optimization Framework](https://github.com):** Multi-table ensemble predictive pipeline tracking shipping failure patterns across 180K+ international fulfillment steps (ROC-AUC: 0.9986).
+
+---
+📬 **Let's Optimize Decisions:** hs093729@gmail.com | New Delhi, India
