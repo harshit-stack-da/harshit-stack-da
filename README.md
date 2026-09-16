@@ -14,4 +14,4 @@ I build enterprise-grade data architectures, advanced machine learning workflows
 3. **[Supply Chain Logistics Delay Optimization Framework](https://github.com):** Multi-table ensemble predictive pipeline tracking shipping failure patterns across 180K+ international fulfillment steps (ROC-AUC: 0.9986).
 
 ---
-📬 **Let's Optimize Decisions:** hs093729@gmail.com | New Delhi, India
+📬 Let's Optimize Decisions: harshit.stack.da@gmail.com | New Delhi, India
