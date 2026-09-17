@@ -20,4 +20,3 @@ I build enterprise-grade data architectures, machine learning workflows, and res
 
 ---
 📬 **Let's Optimize Decisions:** harshit.stack.da@gmail.com | New Delhi, India
-
